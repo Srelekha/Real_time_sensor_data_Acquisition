@@ -1,0 +1,7 @@
+set_io clk 35
+set_io rst 36
+set_io tx 29
+set_io dht_data 37
+set_io led_red 20
+set_io led_green 21
+set_io led_blue 22
